@@ -1,8 +1,10 @@
 # TrackingEyes
 
-project done during MIT course in full stack developement.
-Pair of eyes done with css follows mouse pointer.
-improvements : some styiling needs to be added, maybe other forms can be added.
+This project was done during 7th week of MIT course in full stack developement.
+The pair of eyes are done with css follows mouse pointer.
+Improvements to be made: some styiling needs to be added, could try other shapes. other than eyes.
+download the repo to use it or go to
+  andreagussoni.github.io/TrackingEyes
 
 MIT LICENSE
 
